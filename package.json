@@ -1,0 +1,21 @@
+{
+  "name": "diversify-showcase",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Show case the Diversify participants songs.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Brook <johanbrook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-compile-handlebars": "^0.4.3",
+    "gulp-data": "^1.0.2",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.1.0",
+    "handlebars": "^2.0.0",
+    "html-linkify": "^1.2.0"
+  }
+}

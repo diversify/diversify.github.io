@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$sans: Lato, "Helvetica Neue", sans-serif;
+
+html {
+  font: normal 16px/1.5 $sans;
+  -webkit-font-smoothing: antialiased;
+  color: #333;
+
+}

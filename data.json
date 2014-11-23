@@ -1,0 +1,340 @@
+{
+  "teams": [
+    {
+      "name": "Digital Diamonds",
+      "members": [
+        {
+          "name":"Elaine Janis Dagdayan",
+          "email":"elaine.dagdayan@hyperisland.se",
+          "user": "EjayJanis",
+          "song": "I Will Survive – Gloria Gaynor",
+          "motivation": "I believe this is the song the best describes me because I have survived really difficult chapters in my life. From the death of my parents to moving away from my native land to encountering daily challenges, I survived it all!"
+        },
+        {
+          "name":"Charlotte Wöhlecke",
+          "email":"charlotte@whlecke.se",
+          "user": "chawohl",
+          "song": "Ett Fullkomligt Kaos – Bo Kaspers Orkester",
+          "motivation": "After a serious consideration, I've decided to pick a song from the Swedish band 'Bo Kaspers Orkester' called 'Ett fullkomligt kaos'. Why? To start with - it is a very good song! For me, the song is about how you can be great and successful without having what others may call 'a perfect life'. The song is also a kind of mock to the whole lifestyle-community with white homes with gold on the doorknob. I guess that's how I would like to see myself, smart and elegant but not always shiny on the outside."
+        },
+        {
+          "name":"Anton Niklasson",
+          "email":"niklasson.anton@gmail.com",
+          "user": "AntonNiklasson",
+          "song": "I See Fire – Ed Sheeran (Kygo Remix)",
+          "motivation": "These days that would probably be Kygos remix of 'I See Fire'. It is not really describing me as a person. More like that is what I have been listening to the last two weeks studying to exams. It is an awesome song and I love how it makes me more concentrated and focused on code."
+        },
+        {
+          "name":"Patrik Göthe",
+          "email":"patrik.got@gmail.com",
+          "user": "gopatrik",
+          "song": "For What It's Worth – Buffalo Springfield",
+          "motivation": "Because it's mostly laid back, but offers peaks of insane groove and invites for dancing beyond human control."
+        }
+      ]
+    },
+    {
+      "name": "May This Night Never End",
+      "repo": "https://github.com/diversify/may-this-night-never-end",
+      "members": [
+        {
+          "name":"Klas Eskilson",
+          "email":"klas.eskilson@gmail.com",
+          "user": "klaseskilson",
+          "song": "Teenage Riot – Sonic Youth",
+          "motivation": "Teen Age Riot by Sonic Youth. I chose this song not only because it's a great song, but also because it's the first track on their album 'Daydream Nation'. I enjoy making a good first impression on people, just like the first track kind of sets the tone for the rest of the album. I think this song introduces you to the album in a flawless way, and I wish I could introduce myself in a similar fashion. (So technically, this song describes what I'd like to be.)"
+        },
+        {
+          "name":"Muhammed Said Özcan",
+          "email":"saidozcn@gmail.com",
+          "user": "s",
+          "song": "Hall of Fame – The Script",
+          "motivation": "This song best describes me: Hall of Fame by The Script. I find this song's lyrics so meaningful. I can feel stronger when I listen this song. The best thing in my opinion is to never give up!"
+        },
+        {
+          "name":"Meryem Ekinci",
+          "email":"meryemmelekekinci@gmail.com",
+          "user": "meryem",
+          "motivation": "I am kinda person who tries to catch everything in life, this song is the reason for this. 'Because everything is never as it seems, when I fall asleep.'",
+          "song": "Fireflies – Owl City"
+        },
+        {
+          "name":"Blerta Deliallisi",
+          "email":"blerta.deliallisi@gmail.com",
+          "user": "blertad",
+          "song": "Don't Panic — Coldplay",
+          "motivation": "It is really difficult to pick just one. I will go for this as it describes how I generally look at things. I try to be as positive as I can. Life is beautiful and if you don't like it for the moment you are not spending it as you should. When you feel like you don't belong somewhere try see it as a challenge to work harder to get where you wanna be. Cheer up and enjoy the ride."
+        }
+      ]
+    },
+    {
+      "name": "Team Blockflöjt Heroes",
+      "repo": "https://github.com/diversify/blockflojt",
+      "members": [
+        {
+          "name":"Joakim Ljungren",
+          "email":"joakim@ljungren.se",
+          "user": "2L84F8",
+          "song": "How Did I Get Here – ODESZA",
+          "motivation": "Amazing intro song to an amazing debut album. The short song length together with the title reflects on how quickly my years of studies has went by so far. But OH did I savour every moment."
+        },
+        {
+          "name":"Sandra Liljeqvist",
+          "email":"sandra.liljeqvist@gmail.com",
+          "user": "Sanlil",
+          "song": "A Little Bit – Lykke Li",
+          "motivation": "Because it has a nice, soft flow and rhythm that feels like a great sunday morning and suits my slow pace."
+        },
+        {
+          "name":"Jakob Larsson",
+          "email":"k.jakob.larsson@gmail.com",
+          "user": "karljakoblarsson",
+          "song": "A Day In The Life – The Beatles",
+          "motivation": "It's a song with many different parts. That's also how I see about myself. I have many different sides I present at different times. The song has periods of quiet thinking and contemplation. Just like many parts of my life. I really like to think and dream. But then there is the huge orchestral breakdowns. They represent a different part of me. For example when I'm on stage. Making grand creative gestures and a complete fool of myself. Start with a really 'out there' idea and execute it to 150%. Take it so far it stops being weird and becomes good. It's also a bit off and crazy. Just like me."
+        },
+        {
+          "name":"Unn Swanström",
+          "email":"unnswanstrom@gmail.com",
+          "user": "unnderbar",
+          "song": "Say You'll Be There - MØ",
+          "motivation": "This classic girl power anthem originally performed by the ever epic Spice Girls has been interpreted by the too cool for school Mø. This tribute to friendship that will always be there is all about empowering people around you and growing as a person in the process of doing so. Set to a dreamy unexpectedly catchy soundscape were no dream is too big and the dancing goes on all through the night."
+        }
+      ]
+    },
+    {
+      "name": "Diversilyze",
+      "repo": "https://github.com/diversify/diversilyze",
+      "members": [
+        {
+          "name":"Albin Martinsson",
+          "email":"albinmartinsson91@gmail.com",
+          "user": "albinmartinsson91",
+          "song": "Almost Ready – Dinosaur Jr.",
+          "motivation": "I'm moving pixels left and right, fine-tuning bezier curves to perfection and my calendar keeps yelling at me to be somewhere else. “I’m almost ready!” is what goes through my head on every project. Nothing’s ever going to be perfect and there’s always room for improvement. But hey, that’s the nature of design (and probably life in general) and that’s what I love about it. I also happen to love dinosaurs and electric guitars. Coincidence? I think not."
+        },
+        {
+          "name":"Andreas Rolén",
+          "email":"andreasrolen93@gmail.com",
+          "user": "adderollen",
+          "song": "Feed The Dada – Dada Life",
+          "motivation": "Because when you feed me with something that gives me motivation, I tend to be able to solve stuff that I otherwise thought were to difficult for me. And it's good for partying... I like to party."
+        },
+        {
+          "name":"Karina Silva de Medeiros",
+          "email":"karina.medeiros07@gmail.com",
+          "user": "karinamedeiros",
+          "song": "Viva la Vida – Coldplay",
+          "motivation": "A song that describes me most is Viva la vida, Coldplay. That song reminds a lot about my father and family."
+        },
+        {
+          "name":"Lisa Sundberg",
+          "email":"lisa.sundberg@hyperisland.se",
+          "user": "lisasundberg",
+          "song": "Walk This Way – MØ",
+          "motivation": "Great artist, great song, great video. Because MØ is one of the most inspiring artist I know and I think she is a great role model for young women like me. I saw her live at Roskilde this summer and it was a CRAZY concert. Such energy. She's like WHAT THE FUCK and does what she wants. A feminist icon in my eyes. I also like the lyrics of the song. To me it means that I should follow my dreams even when I'm in doubt: 'You'll find a way, baby, make them all burn.' And of course, it makes me dance like crazy."
+        }
+      ]
+    },
+    {
+      "team": "Team 4",
+      "repo": "https://github.com/diversify/janu",
+      "members": [
+        {
+          "name":"Elin Nilsson",
+          "email":"elin.nilsson30@gmail.com",
+          "user": "hejelin",
+          "song": "Castle – Macklemore & Ryan Lewis",
+          "motivation": "It's positivity, happiness, creativity, unicorns, magic, magnificence, bouncing, a bit crazy at times but mostly just really fun. This song makes me happy, and I strive to make other people happy."
+        },
+        {
+          "name":"Juntima Nawilaijaroen",
+          "email":"j.nawilaijaroen@gmail.com",
+          "user": "juntima-n",
+          "song": "Pink Fluffy Unicorns Dancing On Rainbows – Songs To Wear Pants To",
+          "motivation": "Spotify, Gothenburg office open this song every Friday morning. And I love it! It's not that I want to be pink fluffy unicorn. (actually, I don't like pink. would prefer blue instead) But it's fun to have magic and SMILE."
+        },
+        {
+          "name":"Simon Arneson",
+          "email":"Simon@cymonit.se",
+          "user": "scanniza",
+          "song": "Quicksand – David Bowie",
+          "motivation": "'I'm not a prophet or a Stone Age man, just a mortal with potential of a superman'"
+        },
+        {
+          "name":"Yoav Zimmerman",
+          "email":"yoavzimmerman@gmail.com",
+          "user": "yoavz",
+          "song": "Busy Earnin' – Jungle",
+          "motivation": "This song (apart from being incredibly fun and catchy) really captures the spirit of hustle that draws me to the culture tech entrepreneurship and hacking."
+        }
+      ]
+    },
+    {
+      "name": "Jukebox Joint",
+      "repo": "https://github.com/diversify/jukebox-joint",
+      "members": [
+        {
+          "name":"Shahin Adl Zarrabi",
+          "email":"shahin@wiwo.se",
+          "user": "wiwofone",
+          "song": "Jag Gör Min Grej – Snook",
+          "motivation": ""
+        },
+        {
+          "name":"Emma Hesseborn Fagerholm",
+          "email":"hf.emma@gmail.com",
+          "user": "emmahf",
+          "song": "Sleepyhead – Passion Pit",
+          "motivation": "Aside from the obvious fact that I enjoy sleeping and long weekend mornings like so many others, I feel that dreamer sentiment and playfulness of the song fits me well. The song has a strong connection to games for me as I first heard it during a play through of Little Big Planet 2, one of my favorite video games. It gives me the feeling of wanting to build up things (a big part of the game), which is what I do when I code. "
+        },
+        {
+          "name":"Axel Hammarbäck",
+          "email":"axel.hammarback@gmail.com",
+          "user": "AxelHammarback",
+          "song": "With a Little Help from My Friends – The Beatles",
+          "motivation": "Because you won't get anywhere on your own."
+        },
+        {
+          "name":"Sofie Thorsen",
+          "email":"sofie.l.thorsen@gmail.com",
+          "user": "sofiethorsen",
+          "song": "Something Good Can Work – Two Door Cinema Club",
+          "motivation": "Really good original song, but the cowbell really does it. Something good CAN work!"
+        }
+      ]
+    },
+    {
+      "name": "In Your Face",
+      "repo": "https://github.com/diversify/InYourFace",
+      "members": [
+        {
+          "user": "AleksandarFaraj",
+          "name": "Aleksandar Faraj",
+          "email": "gusfaraal@student.gu.se",
+          "song": "Flash – Queen",
+          "motivation": "I care for people. I feel strongly for people. People seem to flock around me and depend on me."
+        },
+        {
+          "name":"Nicole Martini",
+          "email":"nicole.martini.1992@gmail.com",
+          "user": "epicmartini",
+          "song": "Choo Choo Ch'Boogie – Louis Jordan",
+          "motivation": "When I was six, I started to dance boogie woogie and Lindy Hop. During my last competition, the European Championship finals in 2011, me and my dancepartner got this song and came in 3:rd place. This song that was my last as a competition dancer represents my entire dance career in the national team and all the 13 years of dancing, crying and laughter. "
+        },
+        {
+          "name":"Maureen Callahan",
+          "email":"mcallahan23@gmail.com",
+          "user": "maureencallahan",
+          "song": "Pumping Blood – NONONO",
+          "motivation": "Because it makes me a feel alive. You're the catalyst your own happiness!"
+        },
+        {
+          "name":"Carl Berglund",
+          "email":"kalle.berglund@gmail.com",
+          "user": "CHURLZ",
+          "motivation": "It's adventurous! I love to travel and this song serves as anthem on most of my trips. Also it really gets me creative when developing or building things. Pure genius, that tune.",
+          "song": "Going Up the Country – Canned Heat"
+        }
+      ]
+    },
+    {
+      "name": "Beautiful World",
+      "repo": "https://github.com/diversify/beautiful-world",
+      "members": [
+        {
+          "name":"Ahmed Kachkach",
+          "email":"ahmed.kachkach@gmail.com",
+          "user": "halflings",
+          "song": "Blad Skizo – Hoba Hoba Spirit",
+          "motivation": "A nice mix between traditional Moroccan music and modern occidental rock."
+        },
+        {
+          "name":"Meike Wiemann",
+          "email":"meike.wiemann@gmx.de",
+          "user": "weidenfreak",
+          "song": "Weit Hinaus – Feine Sahne Fischfilet",
+          "motivation": "The first song that came to my mind is 'Weit Hinaus - Feine Sahne Fischfilet' and it’s unfortunately in german. But it basically describes a moment where one sits among his/her friends and just enjoys the moment. The song also expresses how much power one gains through friendships and that they give you strength to achieve anything you want. This is a song which describes me pretty well because it is one of my favorite situations. I have a couple of friends that I’m very close with but we don’t see each other often because some of us (including me) live all over the world. But every time we come together for winter holidays or in summer we sit together and our favorite thing is to play the guitar and sing the same songs all over again that we’ve been singing for years now. Those moments are great memories and they give strength to each of us."
+        },
+        {
+          "name":"Michelle Cañada",
+          "email":"michu@kth.se",
+          "user": "michellecanada",
+          "song": "Shake It Out – Florence + The Machine",
+          "motivation": "Right now, I would have to say 'Shake It Out' by Florence + The Machine. It's all about having made mistakes in the past and trying to move on, possibly from a lost love. I have lived such a dull life the past three years, in a relationship that wasn't working, and now I am turning my life around and exploring new things! "
+        },
+        {
+          "name":"Johan Holmlund",
+          "email":"johis140@gmail.com",
+          "user": "holmise",
+          "song": "Elite – Kent",
+          "motivation": "Family is important to me."
+        }
+      ]
+    },
+    {
+      "name": "Globetrotting",
+      "repo": "https://github.com/diversify/globetrotting",
+      "members": [
+        {
+          "name":"Gustav Mörtberg",
+          "email":"gustavmortberg@gmail.com",
+          "user": "gustavmortberg",
+          "song": "Home – Edward Sharpe & The Magnetic Zeros",
+          "motivation": "Though question, but at this moment I'd pick Home by Edward Sharpe & The Magnetic Zeros. I think its a great love song and sort of a celebration of life, the way it should be - and the whole song reeks of wanderlust which is how I hope that I am."
+        },
+        {
+          "name":"Dennis Jin",
+          "email":"adennisjin@gmail.com",
+          "user": "Desuvader",
+          "song": "Life Gets Better – Ed Solo & Skool of Thought",
+          "motivation": "Live life filled with challenges and struggles, while trying to uncover the mysteries of what I think is interesting. The lyrics resonates really well with my life mission."
+        },
+        {
+          "name":"Anna Karlsson ",
+          "email":"anna_karlsson@live.se",
+          "user": "AnnaKarlsson",
+          "song": "Jag Skrattar Idag – Ison & Fille",
+          "motivation": "Because life is what happens when you are busy making other plans and all that you know ..."
+        },
+        {
+          "name":"Anna Palmér",
+          "email":"palmer.anna@gmail.com",
+          "user": "palmeranna",
+          "song": "Afterglow – Wilkinson",
+          "motivation": "I'm ready for my afterglow now when I'm only have one semester left until I graduate! Yeeey!"
+        }
+      ]
+    },
+    {
+      "name": "Team 9",
+      "members": [
+        {
+          "name":"Cornelia Damber Håkansson",
+          "email":"cornelia.damber@gmail.com",
+          "user": "corneliadamber",
+          "motivation": "Think big or go home! I really love the feeling you get of this song. Everything suddenly seems possible and way more fun. This song describe be in the way that when I do something I'm really found of I'm all in no matter what!",
+          "song": "A Little Party Never Killed Nobody (All We Got) – Fergie, Q-Tip, GoonRock"
+        },
+        {
+          "name":"Aliaksandr Karasiou",
+          "email":"aliaksandrkarasiou@gmail.com",
+          "user": "aliaksandrkarasiou",
+          "song": "Got The Life – Korn"
+        },
+        {
+          "name":"Carl-Arvid Ewerbring",
+          "email":"caewerbring@gmail.com",
+          "user": "pogestudio",
+          "motivation": "It's gives energy just by listening to it, is a bit techno at the same time as funky, and overall sounds freaking awesome.",
+          "song": "S_M_A_S_H (Blende Remix) – Surrender"
+        },
+        {
+          "name":"Malin Arvidsson",
+          "email":"malarv@kth.se",
+          "motivation": "This song touches the essentials of me, the combination of my often smiling face and the 73 years of life experience behind it.",
+          "song": "Smiley Faces - Gnarls Barkley"
+        }
+      ]
+    }
+  ]
+}
