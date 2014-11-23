@@ -27,4 +27,4 @@ gulp.task('watch', function() {
   gulp.watch('./stylesheets/*.scss', ['css'])
 })
 
-gulp.task('default', ['data'])
+gulp.task('default', ['css', 'template'])
