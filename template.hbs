@@ -1,26 +1,136 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Diversify Showcase | By Spotify</title>
+    <title>Diversify by Spotify</title>
     <meta charset="utf-8">
-    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/master.css">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width" />
   </head>
   <body>
 
     <header role="banner">
-
+      <h1><img src="images/logo.svg" alt="Diversify" /></h1>
     </header>
 
     <main role="main">
-      <h1>Teams &amp; Creations in Diversify</h1>
+      <div class="wrapper">
+        <section class="section-story">
+
+          <div class="story__intro">
+            <p>
+              Diversify was a weekend event at Spotify in Stockholm, where 40 tech students of diverse backgrounds came together and designed, wrote code, and found new friends.
+            </p>
+
+            <p>
+              They were all teams consisting of an equal share of men and women, and also different technical interests.
+            </p>
+
+            <p>
+              <strong>And their results were insanely cool.</strong>
+            </p>
+          </div>
+
+          <div class="story__bubbles">
+
+            <div class="row">
+              <img src="http://placehold.it/500x300" />
+              <p>
+                Technology is all around us, after all. In a larger, high level perspective, Diversify was organized by us due to the current situation in the tech scene: it’s not very gender balanced. We were tired of hosting hackathons with homogen audiences. We wanted change and a different mix of people! Our world is inhabited by both men and women, so why shouldn’t the tech scene reflect that?
+              </p>
+            </div>
+
+            <div class="row">
+              <img src="http://placehold.it/500x300" />
+              <p>
+                By <strong>forcing</strong> a 50/50 divide between men and women, 40% of the applications to the event (with forty spots) were from women. That has never happened for any of our tech events before. Why? We are not entirely sure. But instead of patting ourselves on the back for this, we should figure out a way to achieve a 50/50 attendance rate <em>without</em> forcing it.
+              </p>
+            </div>
+
+            <div class="row">
+              <img src="http://placehold.it/500x300" />
+
+              <p>
+                For Diversify, we tried to move away from traditional hackathon concepts (we even avoid using the word ”hackathon” because of its baggage). We refrained from using regular ”hacking food”, like pizza and beer, and had talks and a workshop on diversity. The interface design and idea of each hack was as important as its underlying code.
+              </p>
+            </div>
+
+          </div>
+
+          <div class="story__ending">
+            <p>
+              We have now showed for the industry, ourselves and the attendees of Diversify that our hypothesis holds:
+            </p>
+
+            <p class="highlight">
+              Diverse teams create better products
+            </p>
+
+            <p>
+              Segregation and exclusion will lead to us missing out on the brightest minds, ideas and products. Let create a tech world where everyone are welcome.
+            </p>
+          </div>
+
+        </section>
+      </div>
+
+      <section>
+        <h1>The <strong>people</strong> &amp; what they <strong>created</strong></h1>
 
       {{#each teams}}
-      <article>
-        <h2>{{name}}</h2>
+      <article class="team">
+        <header>
+          <h2>{{name}} {{#if repo}}<a href="{{repo}}">{{repoFromUrl repo}}</a>{{/if}}</h2>
+
+          <div class="team__description">
+            <p>
+              One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human.
+            </p>
+          </div>
+        </header>
+
+        <ul>
+        {{#each members}}
+          <li>
+            <img class="avatar" src="{{gravatar email size=200}}" alt="" />
+
+            <h3>
+            {{#if user}}
+              <a href="{{githubUser user}}">{{name}}</a>
+            {{else}}
+              {{name}}
+            {{/if}}
+            </h3>
+
+            <p>
+              <strong>{{song}}</strong>
+            </p>
+
+            {{#if motivation}}
+            <p>
+              {{motivation}}
+            </p>
+            {{/if}}
+          </li>
+        {{/each}}
+        </ul>
       </article>
       {{/each}}
     </main>
+
+    <footer role="contentinfo">
+      <p>
+        For more info and questions, feel free to shoot us an email at
+      </p>
+
+      <a class="email-link" href="mailto:diversify@spotify.com">diversify@spotify.com</a>
+
+      <p>
+        Made by
+
+        <strong>the Spotify Street Team</strong>
+      </p>
+    </footer>
 
     <!-- By Johan, Spotify Street Team 2014 -->
   </body>
