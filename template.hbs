@@ -9,8 +9,8 @@
   </head>
   <body>
 
-    <header role="banner">
-      <h1><img src="images/logo.svg" alt="Diversify" /></h1>
+    <header role="banner" class="parallax-header">
+      <h1 class="parallax-logo"><img src="images/logo.svg" alt="Diversify" /></h1>
     </header>
 
     <main role="main">
@@ -28,6 +28,10 @@
 
             <p>
               <strong>And their results were insanely cool.</strong>
+            </p>
+
+            <p>
+              <i class="icon"></i>
             </p>
           </div>
 
@@ -80,16 +84,28 @@
       {{#each teams}}
       <article class="team">
         <header>
-          <h2>{{name}} {{#if repo}}<a href="{{repo}}">{{repoFromUrl repo}}</a>{{/if}}</h2>
+          <h2>{{name}}</h2>
 
           <div class="team__description">
             <p>
               One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human.
             </p>
           </div>
+          <ul class="team__links">
+            {{#if repo}}
+            <li><a href="{{repo}}" title="{{repoFromUrl repo}}">
+              <span class="icon"></span> Source code</a>
+            </li>
+            {{/if}}
+            {{#if link}}
+            <li><a href="{{link}}" title="{{link}}">
+              <span class="icon">🌎</span> Live link</a>
+            </li>
+            {{/if}}
+          </ul>
         </header>
 
-        <ul>
+        <ul class="team__members">
         {{#each members}}
           <li>
             <img class="avatar" src="{{gravatar email size=200}}" alt="" />
@@ -102,12 +118,13 @@
             {{/if}}
             </h3>
 
-            <p>
-              <strong>{{song}}</strong>
+            <p class="member__song">
+              <strong>{{songTitle song}}</strong>
+              <small>{{artist song}}</small>
             </p>
 
             {{#if motivation}}
-            <p>
+            <p class="member__song-text">
               {{motivation}}
             </p>
             {{/if}}
@@ -133,5 +150,6 @@
     </footer>
 
     <!-- By Johan, Spotify Street Team 2014 -->
+    <script src="javascripts/parallax.js"></script>
   </body>
 </html>
