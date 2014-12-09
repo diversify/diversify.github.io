@@ -1,4 +1,7 @@
+$base-size:  18;
 $accent:     #DC003C;
+$text-color: #6F6F6F;
+$background: #fff;
 
 @font-face {
   font-family: 'entypo';
@@ -76,8 +79,8 @@ img {
 html {
   font: normal 18px/1.618 $sans;
   -webkit-font-smoothing: antialiased;
-  color: #6F6F6F;
-  background: #fff;
+  color: $text-color;
+  background: $background;
 
   @include large {
     font-size: 22px;
@@ -125,6 +128,15 @@ a {
 
   @include mobile {
     height: 40vh;
+  }
+}
+
+[role="contentinfo"] {
+  text-align: center;
+  font-style: italic;
+
+  .email-link {
+
   }
 }
 
