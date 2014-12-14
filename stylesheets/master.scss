@@ -237,6 +237,11 @@ p {
   margin-bottom: 6rem;
 }
 
+.section-teams {
+  max-width: 1680px;
+  margin: 0 auto;
+}
+
 .story__intro {
   text-align: center;
   max-width: 40rem;
@@ -366,15 +371,41 @@ p {
 
 .team {
   header {
-    background-color: $accent;
-    color: #fff;
-    background-image: linear-gradient(-179deg, #C33562 1%, #C72C6C 100%);
-    padding: 6vw 4vw;
-    width: 50%;
+    display: flex;
+
+    .team__info {
+      background-color: $accent;
+      color: #fff;
+      background-image: linear-gradient(-179deg, #C33562 1%, #C72C6C 100%);
+      padding: 6vw 4vw;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    > * {
+      width: 50%;
+    }
+
+    img {
+      display: block;
+    }
+
+    @include mobile {
+      flex-direction: column;
+
+      & > * {
+        width: 100%;
+      }
+    }
   }
 
   h2 {
     text-align: left;
+
+    @include mobile {
+      text-align: center;
+    }
   }
 
   .team__description {
@@ -444,6 +475,7 @@ p {
 
     li {
       width: 50%;
+      padding: 0 1%;
     }
 
     a {
@@ -473,6 +505,20 @@ p {
       display: inline-block;
       margin-right: .2em;
       color: inherit;
+    }
+
+    @media only screen and (max-width: 1024px) {
+      flex-direction: column;
+
+      li {
+        width: 100%;
+        padding: 0;
+        margin-bottom: .5rem;
+      }
+    }
+
+    @include mobile {
+      margin-top: 1rem;
     }
   }
 }
