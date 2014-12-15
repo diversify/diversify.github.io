@@ -104,8 +104,11 @@
       ]
     },
     {
-      "name": "Diversilyze",
-      "repo": "https://github.com/diversify/diversilyze",
+      "name": "Equalyze",
+      "repo": "https://github.com/diversify/equalyze",
+      "description": "Equalyze is a simple web application to help you analyze how diverse your playlists are. By checking what gender the artists your playlist consist of, we give you a rough estimation of how diverse your playlist are. We also give you some recommendation of songs to add, based on the artists you already got in the playlist, to get a better diversity on your playlist. Our thought when doing this application were to follow the theme at Diversify and to create an service that could give users a better knowledge of what the actually listen to.",
+      "link": "http://equalyze.meteor.com/",
+      "image": "http://equalyze.meteor.com/screenshot.png",
       "members": [
         {
           "name":"Albin Martinsson",
