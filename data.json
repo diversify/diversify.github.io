@@ -308,7 +308,10 @@
       ]
     },
     {
-      "name": "Team 9",
+      "name": "Cover Me",
+      "repo": "https://github.com/pogestudio/MusicMe",
+      "image": "images/teams/CoverMe.png",
+      "description": "Our website allows you to reconstruct a photo of yours, with the album covers (used as pixles) of your very favorite Spotify playlist. Browse, add, create – it doesn't get any simpler to create a splendid piece of art!",
       "members": [
         {
           "name":"Cornelia Damber Håkansson",
