@@ -214,8 +214,8 @@
       "name": "In Your Face",
       "repo": "https://github.com/diversify/InYourFace",
       "description": "Pretend that you are on a buss when a song comes on that reminds you of an old friend you haven't met in years. The song reminds you of when you and your friend sat at your room and had a great time with laughs and giggles, the only thing you could think of was the moment. Wouldn't it be awesome to smack that song in their face? With In Your Face you can send a friend the song you are currently listening to and they will be able to listen to it togheter with you.",
-      "link":"inyourface.herokuapp.com",
-      "image":"http://data6.blog.de/media/522/5395522_bd268b86e3_m.jpeg"
+      "link":"https://inyourface.herokuapp.com",
+      "image":"https://inyourface.herokuapp.com/images/inyourface.jpeg"
       "members": [
         {
           "user": "AleksandarFaraj",
