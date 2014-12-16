@@ -72,6 +72,7 @@
     {
       "name": "Team Blockflöjt Heroes",
       "repo": "https://github.com/diversify/blockflojt",
+      "description": "Quepic lets users queue songs on Spotify by posting pictures on Instagram. The application then picks a song with reference to the hashtags in the instagram post. Words that are used in the hashtags can define different moods, genres or artists of the music you want. If a request is too divergent from the event settings it will not be granted. The app has an interface where each post resulting in a queued song is visualized. It is meant to be used on a big screen at parties or other events. With Quepic there will be no hour-long play queues of individual taste and no fuss about the playing device. It will enhance the atmosphere.",
       "members": [
         {
           "name":"Joakim Ljungren",
@@ -104,8 +105,11 @@
       ]
     },
     {
-      "name": "Diversilyze",
-      "repo": "https://github.com/diversify/diversilyze",
+      "name": "Equalyze",
+      "repo": "https://github.com/diversify/equalyze",
+      "description": "Equalyze is a simple web application to help you analyze how diverse your playlists are. By checking what gender the artists your playlist consist of, we give you a rough estimation of how diverse your playlist are. We also give you some recommendation of songs to add, based on the artists you already got in the playlist, to get a better diversity on your playlist. Our thought when doing this application were to follow the theme at Diversify and to create an service that could give users a better knowledge of what the actually listen to.",
+      "link": "http://equalyze.meteor.com/",
+      "image": "http://equalyze.meteor.com/screenshot.png",
       "members": [
         {
           "name":"Albin Martinsson",
@@ -255,7 +259,7 @@
           "email":"meike.wiemann@gmx.de",
           "user": "weidenfreak",
           "song": "Weit Hinaus – Feine Sahne Fischfilet",
-          "motivation": "The first song that came to my mind is 'Weit Hinaus - Feine Sahne Fischfilet' and it’s unfortunately in german. But it basically describes a moment where one sits among his/her friends and just enjoys the moment. The song also expresses how much power one gains through friendships and that they give you strength to achieve anything you want. This is a song which describes me pretty well because it is one of my favorite situations. I have a couple of friends that I’m very close with but we don’t see each other often because some of us (including me) live all over the world. But every time we come together for winter holidays or in summer we sit together and our favorite thing is to play the guitar and sing the same songs all over again that we’ve been singing for years now. Those moments are great memories and they give strength to each of us."
+          "motivation": "The first song that came to my mind is 'Weit Hinaus - Feine Sahne Fischfilet' and it’s unfortunately in german. But it basically describes a moment where one sits among his/her friends and just enjoys the moment. The song expresses how much power one gains through friendships and that they give you strength to achieve anything you want which is why I like it very much."
         },
         {
           "name":"Michelle Cañada",
