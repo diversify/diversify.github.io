@@ -145,6 +145,9 @@
     {
       "name": "Janu",
       "repo": "https://github.com/diversify/janu",
+      "link": "https://saturn-diversify.herokuapp.com/",
+      "image": "images/teams/saturn.png",
+      "description": "Saturn is a game that will broaden your taste in music!",
       "members": [
         {
           "name":"Elin Nilsson",
@@ -172,7 +175,7 @@
           "email":"yoavzimmerman@gmail.com",
           "user": "yoavz",
           "song": "Busy Earnin' – Jungle",
-          "motivation": "This song (apart from being incredibly fun and catchy) really captures the spirit of hustle that draws me to the culture tech entrepreneurship and hacking."
+          "motivation": "This song (apart from being incredibly fun and catchy) really captures the spirit of hustle that draws me to the culture of tech entrepreneurship and hacking."
         }
       ]
     },
