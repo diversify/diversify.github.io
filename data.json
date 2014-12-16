@@ -182,6 +182,8 @@
     {
       "name": "Jukebox Joint",
       "repo": "https://github.com/diversify/jukebox-joint",
+      "link": "http://jukebox-joint.herokuapp.com/",
+      "image": "http://i.imgur.com/FsEpaw4.jpg",
       "members": [
         {
           "name":"Shahin Adl Zarrabi",
