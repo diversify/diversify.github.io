@@ -288,6 +288,8 @@
     },
     {
       "name": "Globetrotting",
+      "description": "Listen your way around the world! Globetrotting is a music exploration app where you experience songs that are unique to places from all over the globe!",
+      "image": "/images/teams/globetrotting.jpg",
       "repo": "https://github.com/diversify/globetrotting",
       "members": [
         {
@@ -295,7 +297,7 @@
           "email":"gustavmortberg@gmail.com",
           "user": "gustavmortberg",
           "song": "Home – Edward Sharpe & The Magnetic Zeros",
-          "motivation": "Though question, but at this moment I'd pick Home by Edward Sharpe & The Magnetic Zeros. I think its a great love song and sort of a celebration of life, the way it should be - and the whole song reeks of wanderlust which is how I hope that I am."
+          "motivation": "A great love song and a celebration of life, the way it should be - the whole song reeks of wanderlust which is how I hope that I am."
         },
         {
           "name":"Dennis Jin",
