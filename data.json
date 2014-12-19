@@ -292,6 +292,7 @@
     },
     {
       "name": "Globetrotting",
+      "link": "http://diversify.github.io/globetrotting/",
       "description": "Listen your way around the world! Globetrotting is a music exploration app where you experience songs that are unique to places from all over the globe!",
       "image": "http://i.imgur.com/cg7YyFW.png",
       "repo": "https://github.com/diversify/globetrotting",
