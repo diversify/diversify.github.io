@@ -2,6 +2,9 @@
   "teams": [
     {
       "name": "Digital Diamonds",
+      "repo": "https://github.com/diversify/digitaldiamonds",
++      "description": "Our application allows users to add songs to a Spotify playlist via Twitter.",
++      "image":"images/teams/logo.png",
       "members": [
         {
           "name":"Elaine Janis Dagdayan",
