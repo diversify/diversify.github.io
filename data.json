@@ -76,6 +76,7 @@
       "name": "Team Blockflöjt Heroes",
       "repo": "https://github.com/diversify/blockflojt",
       "image": "images/teams/blockflojtheroes.png",
+      "link": "https://diversify.github.io/blockflojt/",
       "description": "Quepic lets users queue songs on Spotify by posting pictures on Instagram. The application then picks a song with reference to the hashtags in the instagram post. Words that are used in the hashtags can define different moods, genres or artists of the music you want. If a request is too divergent from the event settings it will not be granted. The app has an interface where each post resulting in a queued song is visualized. It is meant to be used on a big screen at parties or other events. With Quepic there will be no hour-long play queues of individual taste and no fuss about the playing device. It will enhance the atmosphere.",
       "members": [
         {
@@ -259,6 +260,7 @@
     {
       "name": "Beautiful World",
       "repo": "https://github.com/diversify/beautiful-world",
+      "image": "http://i.imgur.com/dHKWOzL.png",
       "members": [
         {
           "name":"Ahmed Kachkach",
@@ -292,6 +294,7 @@
     },
     {
       "name": "Globetrotting",
+      "link": "http://diversify.github.io/globetrotting/",
       "description": "Listen your way around the world! Globetrotting is a music exploration app where you experience songs that are unique to places from all over the globe!",
       "image": "http://i.imgur.com/cg7YyFW.png",
       "repo": "https://github.com/diversify/globetrotting",
